@@ -32,7 +32,7 @@ Super Trunfo Marvel, API desenvolvida para jogo super trunfo modelo heróis da M
  
  <h2 id="heroku"> Deploy (Heroku): </h2>
 
- https://supertrunfomarvel.herokuapp.com/
+ https://super-trunfo-vingadores.herokuapp.com
 
 <br />
 
@@ -76,7 +76,13 @@ Super Trunfo Marvel, API desenvolvida para jogo super trunfo modelo heróis da M
 <br />
 
 * Retorna todos cards;
+
+https://super-trunfo-vingadores.herokuapp.com/supertrunfomarvel/start
+
+
 * Mistura e retorna a lista em 2 partes (cards jogador, cards PC)
+
+ https://super-trunfo-vingadores.herokuapp.com/supertrunfomarvel/cards
 
 <br />
 
@@ -112,7 +118,7 @@ Teste o código pelo postman seguindo a documentação <a href="#documentacao">A
 - Utilize o postman ou programa de sua preferencia trocando o link pelo seu localhost mantendo os endpoints, seguindo  documentação do postman <a href="#documentacao">AQUI</a>.
 - Exemplo:
 
-de: https://supertrunfomarvel-api.herokuapp.com/pokemons/all
+de: https://super-trunfo-vingadores.herokuapp.com/supertrunfomarvel/start
 
 para: http://localhost:3003/supertrunfomarvel/start
 
